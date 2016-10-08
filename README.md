@@ -1,4 +1,5 @@
 # hello-world
-so it begins \n
+so it begins
+
 second line to prove it changes under branch readMeEdit
 
